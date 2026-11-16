@@ -1,6 +1,6 @@
 # Windows Server Active Directory Home Lab
 
-**Status: Completed — core objectives verified**  
+**Core Objectives**  
 **Platform:** Oracle VirtualBox · **Domain:** `homelab.test` · **Client:** `WIN11-CLIENT`
 
 I built this home lab to get more hands-on experience with Windows Server, Active Directory, networking, and IT infrastructure.
@@ -47,6 +47,6 @@ The custom policy initially did not apply even though `gpupdate /force` reported
 
 Windows Server · AD DS · DNS · Organizational Units · User and Group Management · Windows 11 · VirtualBox · Domain Join · Group Policy Management · Security Filtering · `whoami` · `gpupdate` · `gpresult` · Troubleshooting
 
-## Evidence and publication note
+## Evidence and publication note 
 
 Screenshots are selected to show key milestones and troubleshooting. Some installation and network configuration images show intermediate settings, not independent tests of every service. Before making the repository public, inspect screenshots for personal details, credentials, recovery information, and license keys. Do not upload VM disks or installation ISOs.
