@@ -3,8 +3,13 @@
 **Status: Completed — core objectives verified**  
 **Platform:** Oracle VirtualBox · **Domain:** `homelab.test` · **Client:** `WIN11-CLIENT`
 
-A practical two-VM Windows infrastructure project demonstrating Active Directory deployment, centralized user management, domain authentication, and a tested Group Policy restriction. The walkthrough includes curated screenshots, including troubleshooting rather than only successful end states.
+I built this home lab to get more hands-on experience with Windows Server, Active Directory, networking, and IT infrastructure.
 
+The goal was to understand how Active Directory works in an IT environment, from setting up a domain controller and managing users to joining a Windows 11 computer to a domain and applying Group Policy.
+
+I used VirtualBox to set up a Windows Server VM and a Windows 11 client. I ran into a few issues along the way, especially with storage and Group Policy, so I had to troubleshoot, test different fixes, and check that everything was actually working.
+
+This repository is a step-by-step walkthrough of what I did, with screenshots showing the setup, the problems I came across, and how I resolved them.
 ## Lab topology
 
 ```text
