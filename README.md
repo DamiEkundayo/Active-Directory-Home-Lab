@@ -1,6 +1,6 @@
 # Windows Server Active Directory Home Lab
 
-**Status: Completed — core objectives verified**  
+**Core Objectives**  
 **Platform:** Oracle VirtualBox · **Domain:** `homelab.test` · **Client:** `WIN11-CLIENT`
 
 I built this home lab to get more hands-on experience with Windows Server, Active Directory, networking, and IT infrastructure.
